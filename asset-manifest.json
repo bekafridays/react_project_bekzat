@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_project_bekzat/static/css/main.53716955.css",
+    "main.js": "/react_project_bekzat/static/js/main.b5a167cf.js",
+    "static/js/787.eb5e2b60.chunk.js": "/react_project_bekzat/static/js/787.eb5e2b60.chunk.js",
+    "index.html": "/react_project_bekzat/index.html",
+    "main.53716955.css.map": "/react_project_bekzat/static/css/main.53716955.css.map",
+    "main.b5a167cf.js.map": "/react_project_bekzat/static/js/main.b5a167cf.js.map",
+    "787.eb5e2b60.chunk.js.map": "/react_project_bekzat/static/js/787.eb5e2b60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53716955.css",
+    "static/js/main.b5a167cf.js"
+  ]
+}
